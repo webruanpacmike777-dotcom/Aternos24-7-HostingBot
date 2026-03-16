@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "bob_bot",
+    "username": "bob2_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "MontValley.aternos.me",
+    "ip": "MontValley.aternos.me:29848",
     "port": 29848,
     "version": "",
     "try-creative": false
